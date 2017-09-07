@@ -23,9 +23,6 @@ Date:   Wed Sep 6 21:41:52 2017 -0500
 ## Item 2: Your second story, when you learned to use branches.
 I want you to submit your story, as well as your git log.
 
-####It's Connor's Turn Baby
-The truth his, he's just a richer Batman
-
 ### Story: 
 Braden: The truth is... I am Ironman, I know I know it is awesome.
 
@@ -45,6 +42,31 @@ Author: BBox11 <31357167+BBox11@users.noreply.github.com>
 Date:   Wed Sep 6 22:38:01 2017 -0500
     Added Second Story
 commit bc254e3a7213fd6512a42011a880be637c98572f (origin/master, origin/Connor, master, Connor)
+
+###Item 3: Your third story, when you worked with a partner.
+I want you to submit your story, as well as your git log.
+
+####It's Connor's Turn Baby
+The truth his, he's just a richer Batman
+
+### Git Log
+'''sh
+C:\Users\Braden Box\Desktop\BradenboxHW1>git log
+'''
+'''sh
+commit 2f16536b6d89bbb8d6b3f8d3c546c3aa846a7118 (HEAD -> dev, origin/dev)
+Author: BBox11 <31357167+BBox11@users.noreply.github.com>
+Date:   Wed Sep 6 22:58:51 2017 -0500
+    Moved Connor Story.
+commit 9679bee0e0342e6003234bbc419aac2d1686952d
+Author: BBox11 <31357167+BBox11@users.noreply.github.com>
+Date:   Wed Sep 6 22:50:53 2017 -0500
+    Added the part 2 and 3 git log.
+commit 214b76edbb43720f4c53c91b69aeae30ddcb1d5d (Jeremy)
+Merge: bc254e3 aa04176
+Author: BBox11 <31357167+BBox11@users.noreply.github.com>
+Date:   Wed Sep 6 22:39:28 2017 -0500
+    Merge branch 'Braden' into dev
 Author: BBox11 <31357167+BBox11@users.noreply.github.com>
 Date:   Wed Sep 6 21:56:43 2017 -0500
     Add first git log
@@ -57,3 +79,8 @@ Author: BBox11 <31357167+BBox11@users.noreply.github.com>
 Date:   Wed Sep 6 21:41:52 2017 -0500
     first commit
 '''
+
+### Item 4: A discussion of what you want to get out of this class.
+I want to be able to fully understand the concepts of programming and using git.
+I want to be able to work confidently on my own with the basics. 
+I want to be able to perform all tasks set in front of me, that I learn from this class, with ease.
