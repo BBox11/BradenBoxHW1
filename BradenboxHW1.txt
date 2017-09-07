@@ -6,3 +6,16 @@ I want you to submit your story, as well as your git log.
 ### Story: The truth is... I am Ironman.
 
 ### Git Log:
+'''sh
+C:\Users\Braden Box\Desktop\BradenboxHW1>git log
+'''
+'''sh
+commit 5efa952833970c287c8dcce0958e880c0bb70ade (HEAD -> master, origin/master)
+Author: BBox11 <31357167+BBox11@users.noreply.github.com>
+Date:   Wed Sep 6 21:50:56 2017 -0500
+    Added Story
+commit 77d33e624225eef34ae0403a5d0f3a3705147347
+Author: BBox11 <31357167+BBox11@users.noreply.github.com>
+Date:   Wed Sep 6 21:41:52 2017 -0500
+   first commit
+'''
