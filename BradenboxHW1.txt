@@ -27,3 +27,22 @@ I want you to submit your story, as well as your git log.
 Braden: The truth is... I am Ironman, I know I know it is awesome.
 
 ### Git Log: 
+'''sh
+C:\Users\Braden Box\Desktop\BradenboxHW1>git log >> bradenboxhw1
+'''
+'''sh
+C:\Users\Braden Box\Desktop\BradenboxHW1>git log
+commit 214b76edbb43720f4c53c91b69aeae30ddcb1d5d (HEAD -> dev, origin/dev, Jeremy)
+Merge: bc254e3 aa04176
+Author: BBox11 <31357167+BBox11@users.noreply.github.com>
+Date:   Wed Sep 6 22:39:28 2017 -0500
+    Merge branch 'Braden' into dev
+commit aa0417652a1bc96ea0568e8c9bdd61d949b252cf (origin/Braden, Braden)
+Author: BBox11 <31357167+BBox11@users.noreply.github.com>
+Date:   Wed Sep 6 22:38:01 2017 -0500
+    Added Second Story
+commit bc254e3a7213fd6512a42011a880be637c98572f (origin/master, origin/Connor, master, Connor)
+Author: BBox11 <31357167+BBox11@users.noreply.github.com>
+Date:   Wed Sep 6 21:56:43 2017 -0500
+    Add first git log
+'''
