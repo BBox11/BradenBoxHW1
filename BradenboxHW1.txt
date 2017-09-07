@@ -19,3 +19,6 @@ Author: BBox11 <31357167+BBox11@users.noreply.github.com>
 Date:   Wed Sep 6 21:41:52 2017 -0500
    first commit
 '''
+
+##It's Connor's Turn Baby
+The truth his, he's just a richer Batman
