@@ -23,6 +23,9 @@ Date:   Wed Sep 6 21:41:52 2017 -0500
 ## Item 2: Your second story, when you learned to use branches.
 I want you to submit your story, as well as your git log.
 
+####It's Connor's Turn Baby
+The truth his, he's just a richer Batman
+
 ### Story: 
 Braden: The truth is... I am Ironman, I know I know it is awesome.
 
@@ -45,4 +48,12 @@ commit bc254e3a7213fd6512a42011a880be637c98572f (origin/master, origin/Connor, m
 Author: BBox11 <31357167+BBox11@users.noreply.github.com>
 Date:   Wed Sep 6 21:56:43 2017 -0500
     Add first git log
+commit 5efa952833970c287c8dcce0958e880c0bb70ade
+Author: BBox11 <31357167+BBox11@users.noreply.github.com>
+Date:   Wed Sep 6 21:50:56 2017 -0500
+    Added Story
+commit 77d33e624225eef34ae0403a5d0f3a3705147347
+Author: BBox11 <31357167+BBox11@users.noreply.github.com>
+Date:   Wed Sep 6 21:41:52 2017 -0500
+    first commit
 '''
